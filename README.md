@@ -23,24 +23,6 @@ A simple and responsive web application to filter collectible cards by category 
 
 ---
 
-## Project Structure
-
-/magic-ia
-├── index.html
-├── README.md
-├── LICENSE
-└── src
-├── css
-│ ├── estilos.css
-│ ├── reset.css
-│ └── responsivo.css
-├── imagens
-│ ├── logo.png
-│ ├── carta-arkanon.png
-│ └── ... (other images)
-└── js
-└── index.js
-
 ## Contact
 
 For questions or feedback, please open an issue or contact me at:
