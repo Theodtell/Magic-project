@@ -1,5 +1,6 @@
 body{
     font-family: "roboto", sans-serife;
+    background-color: #b69ee336;
 }
 
 .cabecalho{
@@ -155,4 +156,25 @@ body{
 
 .mostrar{
     display: block;
+}
+
+.mensagem-erro {
+    color: #D30000;
+    font-weight: bold;
+    margin-top: 16px;
+    text-align: center;
+    width: 100%;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.3s ease-in-out;
+}
+
+.mensagem-erro.mostrar {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.mensagem-erro.esconder {
+    opacity: 0;
+    transform: translateY(-10px);
 }

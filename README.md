@@ -1,3 +1,53 @@
-# Projeto Magic IA 
+# Magic IA - Card Filtering Web App
 
-Nesse projeto irei criar uma página para comercio das cartas de magic utilizando HTML, CSS e JS
+A simple and responsive web application to filter collectible cards by category and maximum price. Built with HTML5, CSS3, and JavaScript.
+
+---
+
+## Features
+
+- Filter cards by category (Common, Rare, Epic).
+- Filter cards by maximum price.
+- Real-time filter with visual feedback.
+- Animated error message when no cards match filters.
+- Supports triggering filters by clicking the button or pressing Enter.
+- Responsive design for desktop and mobile.
+
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3 (with animations)
+- JavaScript (ES6+)
+
+---
+
+## Project Structure
+
+/magic-ia
+├── index.html
+├── README.md
+├── LICENSE
+└── src
+├── css
+│ ├── estilos.css
+│ ├── reset.css
+│ └── responsivo.css
+├── imagens
+│ ├── logo.png
+│ ├── carta-arkanon.png
+│ └── ... (other images)
+└── js
+└── index.js
+
+## Contact
+
+For questions or feedback, please open an issue or contact me at:
+
+- Email: theodtell@gmail.com  
+- GitHub: [theodtell](https://github.com/Theodtell)
+
+---
+
+Thank you for visiting the Magic IA project! 🚀
